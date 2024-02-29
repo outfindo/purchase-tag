@@ -12,8 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://www.example.com"
-documentation: "https://www.example.com/documentation"
+homepage: "https://www.outfindo.com"
+documentation: "https://www.outfindo.com/resources/"
 versions:
+  - sha: fb34df775dba58cc6fe8f5bf7b75a78ae77acaa1
+    changeNotes: Fix template
   - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
     changeNotes: Initial Version
